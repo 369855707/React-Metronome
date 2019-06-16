@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/React-Metronome/static/css/main.54703d8b.chunk.css",
+    "main.js": "/React-Metronome/static/js/main.a16b5e99.chunk.js",
+    "main.js.map": "/React-Metronome/static/js/main.a16b5e99.chunk.js.map",
+    "runtime~main.js": "/React-Metronome/static/js/runtime~main.e2101558.js",
+    "runtime~main.js.map": "/React-Metronome/static/js/runtime~main.e2101558.js.map",
+    "static/js/2.fdfc7398.chunk.js": "/React-Metronome/static/js/2.fdfc7398.chunk.js",
+    "static/js/2.fdfc7398.chunk.js.map": "/React-Metronome/static/js/2.fdfc7398.chunk.js.map",
+    "index.html": "/React-Metronome/index.html",
+    "precache-manifest.6e268a14c207ee8ae74310b4a13e1164.js": "/React-Metronome/precache-manifest.6e268a14c207ee8ae74310b4a13e1164.js",
+    "service-worker.js": "/React-Metronome/service-worker.js",
+    "static/css/main.54703d8b.chunk.css.map": "/React-Metronome/static/css/main.54703d8b.chunk.css.map",
+    "static/media/click1.wav": "/React-Metronome/static/media/click1.7a7930a2.wav",
+    "static/media/click2.wav": "/React-Metronome/static/media/click2.fe0ded65.wav",
+    "static/media/logo.svg": "/React-Metronome/static/media/logo.5d5d9eef.svg"
+  }
+}
